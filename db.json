@@ -1,0 +1,46 @@
+{
+  "profile": {
+    "name": "Yano Valentino Oroh",
+    "title": "Frontend Developer",
+    "bio": "Front-End Developer passionate about clean design and smooth user experience.",
+    "location": "Langowan, Indonesia",
+    "email": "s22310522@student.unklab.ac.id",
+    "phone": "+62 812 4074 8463",
+    "socials": {
+      "github": "https://github.com/Yano378-git"
+    }
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Frontend Developer",
+      "company": "Americana",
+      "range": "2022 - Now",
+      "desc": "Building React apps with Vite and Tailwind."
+    },
+    {
+      "id": 2,
+      "role": "Intern - Web",
+      "company": "Americanas",
+      "range": "2022",
+      "desc": "Worked on corporate sites and small e-commerce."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Site",
+      "summary": "A personal portfolio using React + Tailwind.",
+      "link": "#"
+    }
+  ],
+  "skills": [
+    "Marketing",
+    "React",
+    "Vite",
+    "Tailwind CSS",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ]
+}
